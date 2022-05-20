@@ -22,36 +22,30 @@ export default {
       <!-- Hero Start -->
       <section
         class="hero-1-bg"
-        :style="{'background-image': 'url(' + require('@/assets/images/hero-1-bg-img.png') + ')'}"
+        :style="{'background-color': '#3a7a48'}"
         id="home"
       >
         <div class="container">
           <div class="row align-items-center justify-content-center">
             <div class="col-lg-6">
               <h1
-                class="hero-1-title text-dark font-weight-bold text-shadow mb-4"
-              >Creative Landing Page</h1>
+                class="hero-1-title text-light font-weight-bold text-shadow mb-4"
+              >Gagnez en efficacité et en flexibilité.</h1>
               <div class="w-75 mb-5 mb-lg-0">
-                <p class="text-muted mb-5 pb-5 font-size-17">
-                  A creative & modern landing page with Lezir template & We
-                  love
-                  make things amazing.
-                </p>
-                <p class>
-                  <span class="font-size-20 mr-2">🥳️</span>Nemo enim ipsam voluptatem quia voluptas sit
-                  aspernatur that is fugit.
+                <p class="text-light mb-5 pb-5 font-size-17">
+                  Notre suite d'outils est la pour aider les acteurs de la transition énergétique dans leurs processus administratifs & marketings.
                 </p>
                 <div class="subscribe-form">
                   <form action="#">
-                    <input type="text" placeholder="Enter  email..." />
-                    <button type="submit" class="btn btn-primary">Subscribe</button>
+                    <input type="text" placeholder="Votre email professionel..." />
+                    <button type="submit" class="btn btn-primary">Lancez-vous!</button>
                   </form>
                 </div>
               </div>
             </div>
             <div class="col-lg-6 col-md-10">
               <div class="mt-5 mt-lg-0">
-                <img src="@/assets/images/hero-1-img.png" alt class="img-fluid d-block mx-auto" />
+                <img src="@/assets/images/undraw_build_your__home_csh6.svg" alt class="img-fluid d-block mx-auto" />
               </div>
             </div>
           </div>

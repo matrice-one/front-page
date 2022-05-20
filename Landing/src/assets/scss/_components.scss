@@ -95,7 +95,7 @@
 .badge {
     padding: 7px 18px;
     font-size: 14px;
-    box-shadow: 0 2px 1px rgba(90, 79, 220, 0.3);
+    box-shadow: 0 2px 1px rgba(29,73,43, 0.3);
 }
 
 @each $color, $value in $theme-colors {

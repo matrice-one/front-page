@@ -22,7 +22,7 @@ export default {
         <div class="row justify-content-center">
           <div class="col-lg-6">
             <div class="text-center mb-5">
-              <h3 class="title mb-3">Awesome Features</h3>
+              <h3 class="title mb-3">Toutes les fonctionnalités qu'il vous fallait</h3>
               <p class="text-muted font-size-15">
                 Et harum quidem rerum facilis est et expedita distinctio nam libero
                 tempore cum soluta nobis eligendi cumque.

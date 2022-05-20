@@ -6,7 +6,7 @@
         <div class="col-lg-4">
           <div class="mb-4 mb-lg-0">
             <div class="p-2 bg-soft-primary d-inline-block rounded mb-4">
-              <div class="icon-xxl uim-icon-primary">
+              <div class="icon-xxl uim-icon-secondary">
                 <span class="uim-svg" style>
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="1em">
                     <polygon
@@ -25,7 +25,7 @@
                 </span>
               </div>
             </div>
-            <h3 class>Why Choose Us ?</h3>
+            <h3 class>Pourquoi utiliser les outils E-cco?</h3>
             <p
               class="text-muted mb-4"
             >Nam libero tempore cum soluta as nobis est eligendi optio cumque nihile impedite quo minus id quod maxime.</p>
@@ -39,19 +39,19 @@
                 <div class="wc-box-icon">
                   <i class="mdi mdi-collage"></i>
                 </div>
-                <h5 class="font-weight-bold mb-2 wc-title mt-4">Esay To Use</h5>
+                <h5 class="font-weight-bold mb-2 wc-title mt-4">Rapidité et simplicité</h5>
                 <p
                   class="text-muted mb-0 font-size-15 wc-subtitle"
-                >Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>
+                >Les entreprises Suisses dépensent entre 15 et 45 minutes par client pour collecter les données nécessaires. </br> Avec E-cco passez à 1 minute. Quelque soit la complexité du dossier.</p>
               </div>
               <div class="wc-box rounded text-center wc-box-primary p-4">
                 <div class="wc-box-icon">
                   <i class="mdi mdi-trending-up"></i>
                 </div>
-                <h5 class="font-weight-bold mb-2 wc-title mt-4">Grow Your Revenue</h5>
+                <h5 class="font-weight-bold mb-2 wc-title mt-4">Gagnez de l'information supplémentaire</h5>
                 <p
                   class="text-muted mb-0 font-size-15 wc-subtitle"
-                >Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>
+                >Découvrez sans effort les nouvelles données en Open Data au fil des mises à jour et de nos newsletters.</p>
               </div>
             </div>
             <div class="col-md-6">
@@ -59,7 +59,7 @@
                 <div class="wc-box-icon">
                   <i class="mdi mdi-security"></i>
                 </div>
-                <h5 class="font-weight-bold mb-2 wc-title mt-4">Analytics Security</h5>
+                <h5 class="font-weight-bold mb-2 wc-title mt-4">Prenez de l'avance sur la compétition </h5>
                 <p
                   class="text-muted mb-0 font-size-15 wc-subtitle"
                 >Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>
@@ -68,7 +68,7 @@
                 <div class="wc-box-icon">
                   <i class="mdi mdi-database-lock"></i>
                 </div>
-                <h5 class="font-weight-bold mb-2 wc-title mt-4">Data Privacy</h5>
+                <h5 class="font-weight-bold mb-2 wc-title mt-4">Valorisez vos compétences</h5>
                 <p
                   class="text-muted mb-0 font-size-15 wc-subtitle"
                 >Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>
