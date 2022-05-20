@@ -45,7 +45,7 @@ export default {
             </div>
             <div class="col-lg-6 col-md-10">
               <div class="mt-5 mt-lg-0">
-                <img src="@/assets/images/undraw_build_your__home_csh6.svg" alt class="img-fluid d-block mx-auto" />
+                <img src="@/assets/images/undraw_data_processing_yrrv.svg" alt class="img-fluid d-block mx-auto" />
               </div>
             </div>
           </div>
@@ -54,8 +54,8 @@ export default {
       <!-- Hero End -->
       <Service />
       <Features />
-      <Pricing />
-      <Blog />
+      <!-- <Pricing />
+      <Blog /> -->
       <Contact />
       <Footer />
     </div>

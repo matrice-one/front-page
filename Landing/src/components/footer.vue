@@ -23,10 +23,9 @@ export default {
         <div class="row">
           <div class="col-lg-4">
             <div class="mb-5">
-              <img src="@/assets/images/logo-light.png" alt class height="24" />
+              <img src="@/assets/Logo2_ecco.png"  alt class height="80" />
               <p class="text-white-50 my-4 font-size-15">
-                Cras ultricies mi eu turpis sit hendrerit fringilla vestibulum
-                ante ipsum primis in faucibus ultrices posuere cubilia.
+                E-cco est une startup genevoise crée en 2022. Elle a pour but de participer à la transition énergétique en aidant ses acteurs.
               </p>
               <ul class="list-inline footer-social-icon-content">
                 <li class="list-inline-item mr-4">
@@ -55,23 +54,23 @@ export default {
           <div class="col-lg-7 offset-lg-1">
             <div class="row">
               <div class="col-md-4">
-                <h6 class="text-white text-uppercase mb-4">About Us</h6>
+                <h6 class="text-white text-uppercase mb-4">A propos de nous</h6>
                 <ul class="list-unstyled footer-sub-menu">
                   <li>
-                    <a href="javascript: void(0);" class="footer-link">Works</a>
+                    <a href="javascript: void(0);" class="footer-link">Equipe</a>
                   </li>
                   <li>
                     <a href="javascript: void(0);" class="footer-link">Strategy</a>
                   </li>
-                  <li>
+                  <!-- <li>
                     <a href="javascript: void(0);" class="footer-link">Releases</a>
-                  </li>
+                  </li> -->
                   <li>
-                    <a href="javascript: void(0);" class="footer-link">Press</a>
+                    <a href="javascript: void(0);" class="footer-link">Ils parlent de nous</a>
                   </li>
-                  <li>
+                  <!-- <li>
                     <a href="javascript: void(0);" class="footer-link">Mission</a>
-                  </li>
+                  </li> -->
                 </ul>
               </div>
               <div class="col-md-4">
